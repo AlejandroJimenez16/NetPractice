@@ -32,7 +32,7 @@ the "Get my config" button in the interface. This will download the specific con
 
 ## 📚 Resources
 
-### Networking Concepts Studied
+### 🌐 Networking Concepts Studied
 
 During this project, I had to understand and apply the following networking concepts:
 
@@ -41,7 +41,7 @@ During this project, I had to understand and apply the following networking conc
 - **Routers and Switches** configuration.
 - **Routing Tables & Default Gateways** management.
 
-### References
+### 🔗 References
 
 - **YouTube** → Mainly this video https://www.youtube.com/watch?v=pwjAyiscts8&t=969s which explains concepts such as **point-to-point connections**, **routing tables** and **subnet masks**.
 - **GitHub** → To explore different approaches to solving exercises and better understand the project.
